@@ -1,7 +1,6 @@
 <p>
 <h1 id="project_title">
-  ::before
-  "lv10 Group"
+./ lv10 Group
 </h1>
 
 <p align="center">
