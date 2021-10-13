@@ -3,7 +3,14 @@
 
 @import 'jekyll-theme-hacker';
 
-img.resize {
-    width:50%;
+img {
+    max-width: 100%;
     height: auto;
+}
+
+.selectorIdioma {
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
 }
