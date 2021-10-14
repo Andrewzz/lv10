@@ -3,10 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="test.md"><img class="image selectorIdioma" src="assets/images/button_spanish_no_select.png" onmouseover="this.src='assets/images/button_spanish_select.png'" onmouseout="this.src='assets/images/button_spanish_no_select.png'" /></a>
-  <img class="image selectorIdioma" src="assets/images/button_english_no_select.png" onmouseover="this.src='assets/images/button_english_select.png'" onmouseout="this.src='assets/images/button_english_no_select.png'" />
+  <a href="test"><img class="image selectorIdioma" src="assets/images/button_spanish_no_select.png" onmouseover="this.src='assets/images/button_spanish_select.png'" onmouseout="this.src='assets/images/button_spanish_no_select.png'" /></a>
+  <a href="test"><img class="image selectorIdioma" src="assets/images/button_english_no_select.png" onmouseover="this.src='assets/images/button_english_select.png'" onmouseout="this.src='assets/images/button_english_no_select.png'" /></a>
   <img class="image selectorIdioma" src="assets/images/button_french_no_select.png" onmouseover="this.src='assets/images/button_french_select.png'" onmouseout="this.src='assets/images/button_french_no_select.png'" />
 </p>
-
-
 
